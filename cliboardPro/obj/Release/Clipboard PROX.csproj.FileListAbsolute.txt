@@ -1,0 +1,51 @@
+D:\VS\Clipboard PROX\bin\Release\Clipboard PROX.exe
+D:\VS\Clipboard PROX\bin\Release\Clipboard PROX.pdb
+D:\VS\Clipboard PROX\obj\Release\Clipboard_PROX.Form1.resources
+D:\VS\Clipboard PROX\obj\Release\Clipboard_PROX.Properties.Resources.resources
+D:\VS\Clipboard PROX\obj\Release\Clipboard PROX.csproj.GenerateResource.cache
+D:\VS\Clipboard PROX\obj\Release\Clipboard PROX.exe
+D:\VS\Clipboard PROX\obj\Release\Clipboard PROX.pdb
+C:\Users\Korisnik\Desktop\Clipboard PROX Open Source\bin\Release\Clipboard PROX.exe.config
+C:\Users\Korisnik\Desktop\Clipboard PROX Open Source\bin\Release\Clipboard PROX.exe.manifest
+C:\Users\Korisnik\Desktop\Clipboard PROX Open Source\bin\Release\Clipboard PROX.application
+C:\Users\Korisnik\Desktop\Clipboard PROX Open Source\bin\Release\Clipboard PROX.exe
+C:\Users\Korisnik\Desktop\Clipboard PROX Open Source\bin\Release\Clipboard PROX.pdb
+C:\Users\Korisnik\Desktop\Clipboard PROX Open Source\obj\Release\Clipboard_PROX.Form1.resources
+C:\Users\Korisnik\Desktop\Clipboard PROX Open Source\obj\Release\Clipboard_PROX.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Clipboard PROX Open Source\obj\Release\Clipboard PROX.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Clipboard PROX Open Source\obj\Release\Clipboard PROX.TrustInfo.xml
+C:\Users\Korisnik\Desktop\Clipboard PROX Open Source\obj\Release\Clipboard PROX.exe.manifest
+C:\Users\Korisnik\Desktop\Clipboard PROX Open Source\obj\Release\Clipboard PROX.application
+C:\Users\Korisnik\Desktop\Clipboard PROX Open Source\obj\Release\Clipboard PROX.exe
+C:\Users\Korisnik\Desktop\Clipboard PROX Open Source\obj\Release\Clipboard PROX.pdb
+C:\Users\Korisnik\Desktop\Prox\Clipboard PROX Open Source\obj\Release\Clipboard PROX.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Prox\Clipboard PROX Open Source\obj\Release\Clipboard_PROX.Form1.resources
+C:\Users\Korisnik\Desktop\Prox\Clipboard PROX Open Source\obj\Release\Clipboard_PROX.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Prox\Clipboard PROX Open Source\obj\Release\Clipboard PROX.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Prox\Clipboard PROX Open Source\obj\Release\Clipboard PROX.exe
+C:\Users\Korisnik\Desktop\Prox\Clipboard PROX Open Source\obj\Release\Clipboard PROX.pdb
+C:\Users\Korisnik\Desktop\Prox\Clipboard PROX Open Source\bin\Release\Clipboard PROX.exe.config
+C:\Users\Korisnik\Desktop\Prox\Clipboard PROX Open Source\bin\Release\Clipboard PROX.exe.manifest
+C:\Users\Korisnik\Desktop\Prox\Clipboard PROX Open Source\bin\Release\Clipboard PROX.application
+C:\Users\Korisnik\Desktop\Prox\Clipboard PROX Open Source\bin\Release\Clipboard PROX.exe
+C:\Users\Korisnik\Desktop\Prox\Clipboard PROX Open Source\bin\Release\Clipboard PROX.pdb
+C:\Users\Korisnik\Desktop\Prox\Clipboard PROX Open Source\obj\Release\Clipboard PROX.TrustInfo.xml
+C:\Users\Korisnik\Desktop\Prox\Clipboard PROX Open Source\obj\Release\Clipboard PROX.exe.manifest
+C:\Users\Korisnik\Desktop\Prox\Clipboard PROX Open Source\obj\Release\Clipboard PROX.application
+D:\Current projects\Prox\Clipboard PROX Open Source\bin\Release\Clipboard PROX.exe.config
+D:\Current projects\Prox\Clipboard PROX Open Source\bin\Release\Clipboard PROX.exe.manifest
+D:\Current projects\Prox\Clipboard PROX Open Source\bin\Release\Clipboard PROX.application
+D:\Current projects\Prox\Clipboard PROX Open Source\bin\Release\Clipboard PROX.exe
+D:\Current projects\Prox\Clipboard PROX Open Source\bin\Release\Clipboard PROX.pdb
+D:\Current projects\Prox\Clipboard PROX Open Source\obj\Release\Clipboard_PROX.Form1.resources
+D:\Current projects\Prox\Clipboard PROX Open Source\obj\Release\Clipboard_PROX.Properties.Resources.resources
+D:\Current projects\Prox\Clipboard PROX Open Source\obj\Release\Clipboard PROX.csproj.GenerateResource.cache
+D:\Current projects\Prox\Clipboard PROX Open Source\obj\Release\Clipboard PROX.TrustInfo.xml
+D:\Current projects\Prox\Clipboard PROX Open Source\obj\Release\Clipboard PROX.exe.manifest
+D:\Current projects\Prox\Clipboard PROX Open Source\obj\Release\Clipboard PROX.application
+D:\Current projects\Prox\Clipboard PROX Open Source\obj\Release\Clipboard PROX.exe
+D:\Current projects\Prox\Clipboard PROX Open Source\obj\Release\Clipboard PROX.pdb
+D:\Current projects\Prox\Clipboard PROX Open Source\obj\Release\Clipboard PROX.csproj.CoreCompileInputs.cache
+C:\Users\legion\source\repos\ClipboardPROXOpenSourcenew (2)\Clipboard PROX Open Source\obj\Release\Clipboard PROX.csprojAssemblyReference.cache
+C:\Users\legion\source\repos\ClipboardPROXOpenSourcenew (2)\Clipboard PROX Open Source\obj\Release\Clipboard PROX.exe
+C:\Users\legion\source\repos\ClipboardPROXOpenSourcenew (2)\Clipboard PROX Open Source\obj\Release\Clipboard PROX.pdb

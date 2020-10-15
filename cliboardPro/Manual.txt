@@ -1,0 +1,41 @@
+Clipboard PROX instruction manual
+
+The program is intended for downloading and memorizing the textual content of the system Clipboard after each COPY operation. The stored text data can be forwarded to other programs, at the option of the user, into fields that can accept text data, using the PASTE operation, solely with the Ctrl + V shortcut key. The classic PASTE operation by right-clicking and selecting the PASTE option from the context menu is currently unavailable.
+
+Program shortcuts:
+
+Ctrl + Alt + C Start program
+Ctrl + C Copy
+Ctrl + V Paste
+Ctrl + Alt + V Paste All
+Ctrl + Del Delete Row
+Ctrl + Backspace Delete All Rows
+Ctrl + Up / Down Select Up / Down
+Ctrl + Enter Minimize / Maximize
+
+The program can be started with a shortcut assigned to the program shortcut. Right-click on the Clipboard PROX thumbnail, select the Create Shortcut option. Right-click the newly created shortcut and click the Properties option. A shortcut window opens. , enter Ctrl + Alt + C in the Shortcut Key field. Click Apply and OK. Now the shortcut key to start the program is registered at the operating system level. Press Ctrl + Alt + C at any time and the program starts.
+
+Upon program startup, all keyboard shortcuts as well as access to the system Clipboard are registered at the operating system level. As long as the Clipboard PROX program is active, other programs cannot use the same keyboard shortcuts. To enable other applications to use those shortcut keys, Clipboard PROX must be inactive, minimized, or shut down.
+
+Program options:
+
+Send ENTER key xx times
+Automatically emulates pressing the ENTER key after PASTE operation, a number of times.
+
+Delay ENTER key xx seconds
+Delays the emulation of pressing the ENTER key for a specified, selected time period. When this option is active, it is necessary to wait for the selected number of seconds for the complete operation to be completed before another key shortcut of the program is reactivated.
+
+Transparency
+Increases or decreases window transparency.
+
+Select next row when Ctrl + V is pressed
+Each time you press Ctrl + V, the program automatically selects the next row in the data table.
+
+Stay active when minimized
+The program remains active, accepting data from the Clipboard after the Copy operation, although minimized. All key shortcuts are still registered. When this option is not selected, when the program window is minimized, all key shortcuts and access to the System Clipboard are suspended. The user can now use the system Clipboard, with all its standard Copy / Paste options in the usual way.
+
+Note: The program is Beta 1.0, which means it's still in testing. All program errors that occur during runtime should be reported immediately.
+
+All the best,
+Perić Željko
+periczeljkosmederevo@yahoo.com
