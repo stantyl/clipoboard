@@ -13,3 +13,18 @@ C:\Users\legion\source\repos\ClipboardPROXOpenSourcenew (2)\Clipboard PROX Open 
 C:\Users\legion\source\repos\ClipboardPROXOpenSourcenew (2)\Clipboard PROX Open Source\obj\Debug\Clipboard PROX.exe
 C:\Users\legion\source\repos\ClipboardPROXOpenSourcenew (2)\Clipboard PROX Open Source\obj\Debug\Clipboard PROX.pdb
 C:\Users\legion\source\repos\ClipboardPROXOpenSourcenew (2)\Clipboard PROX Open Source\obj\Debug\Clipboard PROX.csprojAssemblyReference.cache
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\bin\Debug\Clipboard PROX.exe.config
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\bin\Debug\Clipboard PROX.exe.manifest
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\bin\Debug\Clipboard PROX.application
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\bin\Debug\Clipboard PROX.exe
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\bin\Debug\Clipboard PROX.pdb
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\obj\Debug\Clipboard_PROX.Form1.resources
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\obj\Debug\Clipboard_PROX.Properties.Resources.resources
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\obj\Debug\Clipboard PROX.csproj.GenerateResource.cache
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\obj\Debug\Clipboard PROX.csproj.CoreCompileInputs.cache
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\obj\Debug\Clipboard PROX.TrustInfo.xml
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\obj\Debug\Clipboard PROX.exe.manifest
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\obj\Debug\Clipboard PROX.application
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\obj\Debug\Clipboard PROX.exe
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\obj\Debug\Clipboard PROX.pdb
+C:\Users\legion\Source\Repos\stantyl\clipoboardBis\cliboardPro\obj\Debug\Clipboard PROX.csprojAssemblyReference.cache

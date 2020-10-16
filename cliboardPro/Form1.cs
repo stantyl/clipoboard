@@ -1,5 +1,8 @@
-﻿using System;
+﻿using Clipboard_PROX.Utilities;
+using System;
+using System.Data;
 using System.Diagnostics;
+using System.IO;
 using System.Runtime.InteropServices;
 using System.Security;
 using System.Security.Permissions;
@@ -85,6 +88,7 @@ namespace Clipboard_PROX
 			ENTER();
 		}
 		#endregion
+	
 
 		#region-   Initialize, Register & Unregister Section   -
 		void Initialize_Clipboard_Data()
@@ -676,13 +680,32 @@ namespace Clipboard_PROX
         {
 			this.CredentrialsDataView.ClipboardCopyMode = DataGridViewClipboardCopyMode.EnableWithoutHeaderText;
 
-			this.CredentrialsDataView.ClipboardCopyMode = DataGridViewClipboardCopyMode.EnableWithoutHeaderText;
-			this.CredentrialsDataView.Rows.Add("five1", "six1");
-			this.CredentrialsDataView.Rows.Add("five2", "six2");
-			this.CredentrialsDataView.Rows.Add("five3", "six3");
-			this.CredentrialsDataView.Rows.Add("five4", "six5");
 
-		}
+            //DirectoryInfo d = new DirectoryInfo(Folder.GetTodayFolderName());
+
+            //if (!d.Exists)
+            //{
+            //	d.Create();
+
+            //}
+            //FileInfo[] Files = d.GetFiles("*.csv");
+
+            //string t = Files[0].ToString();
+
+
+            //	DataTable w = CSV.GetDataTableFromCSVFile(t);
+
+            //this.CredentrialsDataView.DataSource = w;
+
+            this.CredentrialsDataView.Rows.Add("five1", "six1");
+            this.CredentrialsDataView.Rows.Add("five2", "six2");
+            this.CredentrialsDataView.Rows.Add("five3", "six3");
+            this.CredentrialsDataView.Rows.Add("five4", "six5");
+
+
+
+
+        }
 
 
 
